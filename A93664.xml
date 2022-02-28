@@ -1,0 +1,404 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Perfume against the sulpherous stinke of the snuffe of the light for smoak, called, Novello-mastix. With a check to Cerberus Diabolus, and a whip for his barking against the Parliament and the armie. And an answer to the Anti-quæries, annexed to the Light against the smoak of the temple. / Written by John Salt-Marsh, minister of God's word.</title>
+            <author>Saltmarsh, John, d. 1647.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93664</idno>
+            <idno type="STC">Wing S495</idno>
+            <idno type="STC">Thomason E333_21</idno>
+            <idno type="STC">ESTC R200759</idno>
+            <idno type="EEBO-CITATION">99861418</idno>
+            <idno type="PROQUEST">99861418</idno>
+            <idno type="VID">113552</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93664)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113552)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E333[21] or 247:E333[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Perfume against the sulpherous stinke of the snuffe of the light for smoak, called, Novello-mastix. With a check to Cerberus Diabolus, and a whip for his barking against the Parliament and the armie. And an answer to the Anti-quæries, annexed to the Light against the smoak of the temple. / Written by John Salt-Marsh, minister of God's word.</title>
+                  <author>Saltmarsh, John, d. 1647.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Elizabeth Purslow,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>April, 19. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to John Ley's "Novello-mastix", which is part of his "Light for smoke" (Wing L1883).</note>
+                  <note>Reproductions of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ley, John, 1583-1662. --  Light for smoke --  Early works to 1800.</term>
+               <term>Church and state --  Great Britain --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-05</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113552:1"/>
+            <pb facs="tcp:113552:1" rendition="simple:additions"/>
+            <p>PERFVME AGAINST
+THE
+SULPHEROUS STINKE
+OF THE
+Snuffe of the Light for Smoak,
+CALLED,
+Novello-Mastix.</p>
+            <p>With a Check to CERBERUS
+DIABOLUS, and a whip for his bark<g ref="char:EOLhyphen"/>ing
+againſt the Parliament and
+the Armie.</p>
+            <p>And an Anſwer to the <hi>Anti-Quaeries,</hi> annexed
+to the Light againſt the Smoak of the
+TEMPLE.</p>
+            <p>Written by JOHN SALT-MARSH, Miniſter of
+GODS Word.</p>
+            <q>
+               <bibl>WISDOM. 17. 21, and 18, 1.</bibl>
+               <p>Over them onely was ſpread an heavie night, an Image of
+darkeneſſe, which ſhould afterwards receive them: but yet were
+they unto themſelves more grievious then the darneſſe.</p>
+               <p>Nevertheleſſe, thy Saints had a very great light.</p>
+            </q>
+            <p>LONDON,
+Printed by <hi>Elizabeth Purſlow, April,</hi> 19. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="political_tract">
+            <pb n="2" facs="tcp:113552:2"/>
+            <head>Perfume againſt the Sulphurous ſtinke
+of the Snuffe of the Light for Smoak,
+CALLED,
+NOVELLO-MASTIX.</head>
+            <p>A <hi>Finis</hi> being put to the <hi>Light</hi> of the Reverend <hi>Taper,</hi>
+(after all it's flames continued in the light it burnt
+in) <hi>Cerberus</hi> barkes out a <hi>Novello-Maſtix,</hi> ſpits fl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh<g ref="char:EOLhyphen"/>ings
+of Fire, like a Triple-headed <hi>Diabolus;</hi> his ambition
+being higheſt, to worrie the harmeleſſe tender but honeſt)
+Conſcience, and ſwells with malice at nothing more,
+then that the Armie (where ſuch are) have done ſo much,
+and made ſo faire a way to diſ-throne <hi>Antichriſt,</hi> And be<g ref="char:EOLhyphen"/>cauſe
+<hi>December</hi> ends the yeare, before his malice is ripe
+enough, he would have <hi>ſeven dayes</hi> run back to <hi>Taurus.</hi>
+            </p>
+            <p>Viewing his <hi>Familiars,</hi> he tells <hi>Pages,</hi> and becauſe <hi>C. D.</hi>
+make 600 figuratively, he admits no <hi>paſsages</hi> beyond 66.
+which addition, is that compleat number 666. the ſecond
+beaſt.) In which attempt, being vexed with ſingle-ſheeted
+brats, whoſe jelly he would <hi>drinke,</hi> but cannot cruſh, he
+takes from <hi>Bacchus Sack</hi> and <hi>Claret,</hi> untill he chatter him<g ref="char:EOLhyphen"/>ſelfe
+into a Greeke <hi>Anagram.</hi>
+            </p>
+            <p>Having pusſled himſelf about <hi>queſtions,</hi> and <hi>ſtrife,</hi> the di<g ref="char:EOLhyphen"/>ſturbance
+and confuſion of his muddie-Cranium in the
+firſt part, puts him out of knowledge of himſelfe in the
+ſecond; ſo that if he get but on a <hi>Maſter of Arts Goune,</hi> he
+thinke every <hi>Willow</hi> ſhould ſwell into a great <hi>Oake,</hi> and all
+<hi>Rods</hi> be ſulphur'd into <hi>Thunderbolts,</hi> to ſcourge thoſe that
+dare to josſle him, and if imagination doe but fancie
+<pb n="3" facs="tcp:113552:2"/>
+harme acted, then he Tryumphs, and glories to bring in
+bug-beares to fright good men; but his thoughts cheat
+him, being not able (with all the Helliſh Furies he can
+rayſe againſt them) to daſh them out of countenance to
+diſcharge their conſciences.</p>
+            <p>He goes to the Schoole of the <hi>Scepticks,</hi> where (ex<g ref="char:EOLhyphen"/>pecting
+to find report, but accommodated with nothing
+but <hi>Dregs</hi> and <hi>emptie Bottles</hi>) he transformes his ſhape
+into the Poets <hi>Chimaera,</hi> with his <hi>Triple-head</hi> abridged in<g ref="char:EOLhyphen"/>to
+one, his <hi>neck</hi> transformed into an <hi>Horſes,</hi> and his <hi>Body</hi>
+beſet with <hi>Birds feathers,</hi> to which is joyned a <hi>Fiſhes taile;</hi>
+but though the <hi>Pope, Biſhops,</hi> and Papall <hi>Clergie,</hi> would put
+on a Proteſtant Viſage, yet nothing but levitie can be hid
+under it, and a ſwarm of Vipers breed in the taile thereof.</p>
+            <p>Conſider the third off ſpring of the Serpent, and you
+ſhall find the ſection full of poyſon, in which, (like <hi>Rome</hi>
+the Mother <hi>Citie</hi>) the ſon becomes a ſlave to his own luſts;
+his head is filled with effeminate thoughts in the <hi>firſt,</hi> That
+to enjoy his wiſhes he could be transformed to any thing,
+or weare a <hi>Fryers Weed,</hi> to get admittance into cloſe fa<g ref="char:EOLhyphen"/>vour;
+ſo, that he though naturally incline to ruine <hi>honeſt men,</hi>
+yet luſtfull thoughts turne his practicke diviſions into
+loves Theorick; ſo, that though he would act more miſ<g ref="char:EOLhyphen"/>chiefe
+Providence prevents him, yet the <hi>Steeds neck</hi> is too
+ſtubborne to admit a bridle in the <hi>ſecond;</hi> becauſe un<g ref="char:EOLhyphen"/>willing
+to be curbed from trampling harmleſſe ſoules un<g ref="char:EOLhyphen"/>der
+his brutiſh feet, <hi>ſubordination to the Parliament,</hi> that is
+accounted nothing, <hi>conſcientious ingenuitie</hi> is derided, and
+to diſparage the Parliament, and diſcourage their friends,
+He ſaith, That <hi>thoſe who will be diſpoſed of, onely by the determi<g ref="char:EOLhyphen"/>nation
+of Parliament, they will be independant, in reſpect of all
+other Authoritie.</hi> And, in the <hi>third</hi> place, behold the levi<g ref="char:EOLhyphen"/>tie
+of his <hi>feathered</hi> folly, and you may eaſily judge how
+well he deſerves the <hi>Cap</hi> and <hi>Bauble.</hi>
+            </p>
+            <p>
+               <pb n="2" facs="tcp:113552:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:113552:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:113552:4"/>
+But, beſides all this, the <hi>Chimaeras taile</hi> hath <hi>foure</hi> ſtings
+in it, and he would cunningly faſten one in the <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi>
+one in the <hi>Army,</hi> one in the <hi>Independants,</hi> and one in
+the <hi>Paſsages</hi> of all; but being not able to effect his will, he
+playes with <hi>children and fooles:</hi> it is well knowne where he
+playd away that reputation, which the fixing of <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. D.</hi>
+cannot regaine. But this onely by way of private check.</p>
+            <p>View him in matters of breach of priviledges of Parli<g ref="char:EOLhyphen"/>ament:
+Firſt, he thinkes to carry it too high to be appre<g ref="char:EOLhyphen"/>hended,
+though openly he tax both their minds and man<g ref="char:EOLhyphen"/>ners:
+Secondly, he limits them to M. <hi>Burroughs, Irentron:</hi>
+Thirdly, he brings in <hi>Pope Gregory</hi> for a Rule: Fourthly,
+he turnes Spie, to obſerve what is done, not onely in <hi>Weſt<g ref="char:EOLhyphen"/>minſter-Hall,</hi>
+and the <hi>Court</hi> of the <hi>Requeſts,</hi> but preſumes
+into the <hi>Painted-Chamber;</hi> yea, and peeps into the <hi>Parlia<g ref="char:EOLhyphen"/>ment-Houſe</hi>
+too, tells his owne fancie for Newes, to tra<g ref="char:EOLhyphen"/>duce
+the people, and rayles againſt what is Printed, be<g ref="char:EOLhyphen"/>cauſe
+his owne invention fancies what is contrary: Fifth<g ref="char:EOLhyphen"/>ly,
+he preſſeth confidence to the Cabalaes of his own con<g ref="char:EOLhyphen"/>ceit,
+barks where he cannot bite: And then abuſing the
+<hi>Aſſembly</hi> of <hi>Divins,</hi> he wiſheth, that thoſe he hates durſt ſtand
+their judgement: But why the Equipage of the Papall
+Holyneſſe, and the <hi>Imperiall Majeſtie</hi> are brought in for
+preſidents, to have tender Conſciences reproachfully
+called <hi>Independants,</hi> confounded? there is the myſtery:
+And to put us in mind, that foure Biſhops were choſen
+to ſit with the <hi>Aſſembly</hi> at <hi>Weſtminſter,</hi> is as ſtrange as the
+former; though, it is confeſt, he doth not ſay, that
+D. <hi>Uſher,</hi> D. <hi>Prideaux,</hi> D. <hi>Weſtfield,</hi> and D. <hi>Bromrig,</hi> were
+<hi>Jure Divino.</hi>
+            </p>
+            <p>In the next place he appeares amongſt the <hi>Clerks,</hi> &amp; there
+<hi>C. D.</hi> has no admittance, but to be <hi>Clericus Diabolus,</hi> and
+being received into practice, <hi>foole and knave,</hi> is his firſt
+imployment; he would faine be a gowne man, but is moſt
+<pb n="5" facs="tcp:113552:4"/>
+tormented that he cannot by inſinuation get in to ſerve
+<hi>Cler. Parl<g ref="char:punc">▪</g>
+               </hi> where finding oppoſition he breaths Sulphure,
+and Spits Fire in their faces, and like one frantick be<g ref="char:EOLhyphen"/>comes
+<hi>Diabolos</hi> to abuſe them.</p>
+            <p>Seeing himſelfe ſo reſented, and (by all honeſt men)
+diſcovered and ſo avoyded, he rayles and cals thoſe that
+are imployed journey-men, and aſperſe thoſe whoſe worth
+are far above himſelfe. It may be wondred how he came
+to be Maſter of Arts, except it was intended that <hi>C.</hi> ſhould
+Commence, <hi>D.</hi> Dunce, yet he is more knave (to ſpeake
+truth) then foole <hi>againſt thoſe (for ſooth) who act</hi> for the
+Parliament, &amp; yet in the concoction of his Noddle he was
+quite loſt in Maſter <hi>Saltmarſhes</hi> quaeries, and ſo vaniſhed:
+where leaving him 2 while.</p>
+            <p>In the next place, this <hi>Clericus</hi> of the <hi>Lake</hi> is found (after
+an objection) to be tranſmitted to <hi>Pluto,</hi> there he pleades
+propriety of ſeate, and procures an accuſation.</p>
+            <p>Firſt, againſt the <hi>Orthographie</hi> for impreſſion, calling the
+acts of honeſt men <hi>Heriticall Parodoxes:</hi> but pleaſant flow<g ref="char:EOLhyphen"/>ers
+are prepared againſt the ſtinking Sulphure of his offen<g ref="char:EOLhyphen"/>ſive
+breathings, the poyſon of whoſe ſpirit is prepared to
+ruine others.</p>
+            <p>Secondly, though his owne ſnuffe burnt not till the te<g ref="char:EOLhyphen"/>dious
+taper was quite finiſhed, yet the <hi>ſmoake</hi> offended
+more then the <hi>flaſhes</hi> lighted, and his greateſt envy was, that
+his own deputation was ſo far behind in ſo baſe a Court,
+and beheld younger yeares (through more gravity of ſpi<g ref="char:EOLhyphen"/>rit)
+intruſted in places of <hi>Reputation</hi> and <hi>Honour</hi> with
+good men.</p>
+            <p>Thirdly, he ſoares high, and would blemiſh thoſe he
+cannot be indured (by honeſt men) to be heard to ſpeake
+againſt, yet ſome (he dined at Hell with laſt Terme) love
+ſuch ſedition, fitteſt company for him: but he feares a
+tell-tale, and ſo concludes; but let this be a warning, leſt
+all come out.</p>
+            <p>
+               <pb n="6" facs="tcp:113552:5"/>
+Laſtly, this furious Catch-pole brings in a paper, where<g ref="char:EOLhyphen"/>in
+was written thus: <hi>When other ſcandalous Books are brought in
+I doubt not but it</hi> (that is Maſter <hi>Leys</hi> Book) <hi>will be preſented
+among them: In the meane time, he may doe well to allow Maſter</hi>
+Merideth <hi>ſomething towards his great loſſe, for Printing ſo uſe<g ref="char:EOLhyphen"/>leſſe
+a Booke, to lye upon his hands for waſte Paper;</hi> and giving
+the lye to himſelfe, runs back ſeven dayes, and fals into the
+<hi>Bull</hi> of <hi>December</hi> the 10. from whence he had ſtragled at
+the beginning; and (to ſpeake truth) there is many <hi>Bulls</hi>
+in his language; but when he fals into thoughts of con<g ref="char:EOLhyphen"/>ſcience,
+he breakes off his diſcourſe, and (like the le<g ref="char:EOLhyphen"/>ſuits
+to the Popiſh Legend) he refers all to Epiſtles of
+thoſe whoſe teſtimony he would have to be thought infal<g ref="char:EOLhyphen"/>lible,
+and then what he ſayes, it muſt be <hi>Probatum eſt.</hi>
+            </p>
+         </div>
+         <div type="political_tract">
+            <head>An anſwer to Novello-Maſtix his Anti-quaeries,
+being the 8. ſection of the Additionall papers
+to Maſter Leys Anſwer to Maſter Salt-march.</head>
+            <p>1. <hi>WHether that man be in his perfest ſenſes, who queſti<g ref="char:EOLhyphen"/>ons
+another for anſwering that which himſelfe firſt
+ſtarted?</hi>
+            </p>
+            <p>
+               <label>Anſwer,</label> yes, Maſter <hi>C. D.</hi> of Arts, if the Anſwers be ſe<g ref="char:EOLhyphen"/>ditious,
+you may be queſtioned when you abuſe the Par<g ref="char:EOLhyphen"/>liament,
+or any other Authority by your ſcandals, your
+Anſwer will not be taken <hi>jure divino,</hi> except you can An<g ref="char:EOLhyphen"/>ſwer
+men out of their ſenſes,</p>
+            <p>2. <hi>Whether an Independant Congregation be not as very a Bull
+in the Church, as an Independant Army in the Common-wealth?</hi>
+            </p>
+            <p>
+               <label>Anſwer,</label> yes, the more ſilly they, that call either of them
+ſo to aſperſe them, and if <hi>C. D.</hi> had not beene both Calfe
+and Dunce, he would never have writ ſo many <hi>Bulls,</hi> though
+he ſpeake little other language: ſo farre as men ſubmit to
+<hi>Order,</hi> they are not Independant.</p>
+            <p>
+               <pb n="7" facs="tcp:113552:5"/>
+3. <hi>Whether he be not the man that makes the faction, who ex<g ref="char:EOLhyphen"/>tols
+the Independant Army (by him ſo called) as doing ſo much
+good, &amp;c. wherein others have done as much or more?</hi>
+            </p>
+            <p>
+               <label>Anſwer,</label> the <hi>Catch-dolt</hi> might have ſaid, who and wherein;
+tell us a preſident, and wee ſhall extoll them as much: nor
+doe any of thoſe Worthies, who have bin ſo active, thinke
+it any diſparagement, when they heare it ſaid, that this
+Army hath done extraordinary things; to ſay many Ar<g ref="char:EOLhyphen"/>mies
+have done worthily, but this excells them all, will
+not be to the diſparagement of any, but like this ſilly
+<hi>Maſter of Arts</hi> (who will never have the wit to be his <hi>Arts-Maſter</hi>)
+to traduce their proceedings, and call it faction,
+to commend them for the good they have done us, aver<g ref="char:EOLhyphen"/>ring
+others to have done as much or more; ſurely this
+muſt proceed from a Malignant humour, and needs
+launcing, leſt it ſwell big, and grow to be a Carbuncle in
+the Common-wealth.</p>
+            <p>4. <hi>Whether if the Army be reproachfully called Independants,
+he (that is the Author of the Paſſages) be not the man that re<g ref="char:EOLhyphen"/>proacheth
+them, being the firſt that called them the Independant
+Army.</hi>
+            </p>
+            <p>
+               <label>Anſwer,</label> he is either very ignorant, or hypocriticall, for
+that reproach was caſt upon them long before, and it is
+remembred, what the turne coat ſaid not long ſince him<g ref="char:EOLhyphen"/>ſelfe,
+though now he would (like the Cameleon) ſeeme to
+change his complexion into other colours.</p>
+            <p>5. <hi>Whether this Author be ſuch an Ignoramus, as not to know,
+that ſome Members of the Parliament favour the Independants,
+and ſome Members of the Aſſembly be Independants, though the
+way and model of the Independants (<hi>it's true</hi>) was never yet
+made knowne to the Parliament, nor to the Aſſembly, nor per<g ref="char:EOLhyphen"/>haps
+ever will be.</hi>
+            </p>
+            <p>
+               <label>Anſwer,</label> one part of this Quaere compared with an other,
+and all with the ſecond of his owne, will afford <hi>Bulls</hi> good
+<pb n="8" facs="tcp:113552:6"/>
+ſtore, without either heads or tailes, except the Monſter
+become abroad to ſhew us ſome new <hi>Hocus-pocus</hi> tricks,
+to act which though he would be knaviſh, yet is too
+much a foole to attaine it high enough.</p>
+            <p>6. <hi>Whether it be not fit to queſtion this Pamphleter?</hi>
+            </p>
+            <p>
+               <label>Anſwer,</label> truely it is to little purpoſe to queſtion <hi>Novel<g ref="char:EOLhyphen"/>lo-Maſtix,</hi>
+becauſe the Dunce is diſtracted, it is better to
+reduce his ſenſes firſt in <hi>Bedlam,</hi> and try if that will bring
+him to his wits; if not, then I know no reaſon but that
+he may be admitted a Brother of <hi>Gotham-Colledge,</hi> during
+his infirmity, and if he prove incurable, then let him ne<g ref="char:EOLhyphen"/>ver
+be without the <hi>Cap</hi> and <hi>Bauble.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113552:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
